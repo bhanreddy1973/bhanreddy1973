@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rbhanu504@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bEN1yxxt4s6mpIPtFAvmQZH3vnjf5UZX/view?usp=sharing](https://drive.google.com/file/d/1bEN1yxxt4s6mpIPtFAvmQZH3vnjf5UZX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/166oEpEYoDss83FpJoPifCIMi9VYAESW9/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
