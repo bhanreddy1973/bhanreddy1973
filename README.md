@@ -1,21 +1,175 @@
-<h1 align="center">Hi 👋, I'm Bhanu Reddy</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanreddy1973&label=Profile%20views&color=0e75b6&style=flat" alt="bhanreddy1973" /> </p>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhanu%20Reddy%20Cholapalli&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems%20%40%20Swiggy&descSize=18&descAlignY=58&descColor=a8d8ff"/>
 
-- 📫 How to reach me **rbhanu504@gmail.com**
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=700&lines=AI+Engineer+Intern+%40+Swiggy+%F0%9F%9A%80;MCP+%7C+LLM+Integration+Specialist+%F0%9F%A4%96;Building+AI-powered+Internal+Tooling+%F0%9F%94%A7;CSE+%40+IIIT+Bangalore+%F0%9F%8E%93;Open+to+Collaborations+%26+Mentoring+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/166oEpEYoDss83FpJoPifCIMi9VYAESW9/view?usp=sharing)
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhanu-reddy1973/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhanu-reddy1973/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhanureddy1973" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/bhanureddy1973" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bhanreddy1973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/bhanreddy1973" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/rbhanu504/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rbhanu504/" height="30" width="40" /></a>
-</p>
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-reddy1973/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanreddy1973)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BhanuReddy-1973)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rbhanu504@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=bhanreddy1973&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/bhanreddy1973)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanreddy1973&show_icons=true&locale=en&layout=compact" alt="bhanreddy1973" /></p>
+---
+
+## 👨‍💻 About Me
+
+> *"Turning ambiguous problems into intelligent systems — one model at a time."*
+
+I'm an **AI Engineer Intern at Swiggy**, Bangalore — working at the intersection of **Large Language Models**, **Model Context Protocol (MCP)**, and **internal developer tooling**. I design and ship AI-powered systems that help engineering teams move faster and smarter.
+
+Currently focused on building **agentic AI pipelines** and **LLM-integrated knowledge infrastructure** that give developers instant, intelligent access to internal data, schemas, and lineage — eliminating hours of manual discovery.
+
+- 🔭 **Current:** Building `data-knowledge-layer` — an AI-native metadata discovery system at Swiggy
+- 🧠 **Deep diving into:** MCP (Model Context Protocol), RAG pipelines, LLM tool-use, and agentic architectures
+- 🌱 **Learning:** Distributed systems, production ML infra, and LLMOps
+- 🤝 **Open to:** Collaborations, open-source contributions, and mentoring
+- 📍 **Based in:** Bangalore, India
+- 📫 **Reach me:** [rbhanu504@gmail.com](mailto:rbhanu504@gmail.com)
+
+---
+
+## 🚀 What I'm Building @ Swiggy
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔍 data-knowledge-layer</h3>
+      <p>An internal AI-powered knowledge search tool for discovering table metadata, schemas, data lineage, and documentation. Enables engineers to query internal data assets in natural language via MCP.</p>
+      <img src="https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚡ MCP Server Integrations</h3>
+      <p>Building Model Context Protocol server bridges that connect LLMs (Claude) to Swiggy's internal tooling stack — Jira, internal APIs, data platforms — enabling intelligent developer assistants.</p>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Data & Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 💻 Languages & Tools
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/bhanreddy1973">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhanreddy1973&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanreddy1973&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/bhanreddy1973">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanreddy1973&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhanreddy1973&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhanreddy1973&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td>🏛️ <b>Degree</b></td>
+    <td>B.Tech, Computer Science & Engineering (Artifical Intelligence And Data Science)</td>
+  </tr>
+  <tr>
+    <td>🏫 <b>Institution</b></td>
+    <td>Indian Institute of Information Technology (IIIT), Kottayam</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Experience</b></td>
+    <td>1+ year · Intern Experience</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Bangalore, India</td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm actively open to:
+
+| 💬 Mentoring | 🔧 Open Source | 🎤 Tech Talks | 🤝 Collaborations |
+|:---:|:---:|:---:|:---:|
+| AI/ML & LLMs | MCP tooling | AI Engineering | Side projects |
+
+**Topics I can speak on:** Model Context Protocol (MCP) • LLM Integration Patterns • AI-Powered Developer Tooling • Building Agentic Systems
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-reddy1973/)
+[![Email](https://img.shields.io/badge/Drop%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rbhanu504@gmail.com)
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BhanuReddy-1973)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**⭐ If you found my work useful, consider giving a star to my repos!**
+
+![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-58a6ff?style=flat-square)
+![Made with ❤️](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-Bangalore-ff6e6e?style=flat-square)
+
+</div>
