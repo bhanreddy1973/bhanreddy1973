@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=700&lines=AI+Engineer+Intern+%40+Swiggy+%F0%9F%9A%80;MCP+%7C+LLM+Integration+Specialist+%F0%9F%A4%96;Building+AI-powered+Internal+Tooling+%F0%9F%94%A7;CSE+%40+IIIT+Bangalore+%F0%9F%8E%93;Open+to+Collaborations+%26+Mentoring+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=700&lines=AI+Engineer+Intern+%40+Swiggy+%F0%9F%9A%80;MCP+%7C+LLM+Integration+Specialist+%F0%9F%A4%96;Building+AI-powered+Internal+Tooling+%F0%9F%94%A7;CSE+%40+IIIT+Kottayam+%F0%9F%8E%93;Open+to+Collaborations+%26+Mentoring+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
